@@ -41,4 +41,9 @@ Notación de puntos vs notación de corchetes:
 con la anotacion de puntos podemos llamar al nombre de un objeto y clave.
 con la anotacion de corchetes es como llamar a un elemento de una matriz, se puede llamar a cada clave envolviendola en comillas.
 
+04_js-v
+prototype:
+proporciona mecanimos de herencia.
 
+Constructors (de Clases):
+Un constructor es un elemento de una clase cuyo identificador coincide con el de la clase correspondiente y que tiene por objetivo obligar a y controlar cómo se inicializa una instancia de una determinada clase.
