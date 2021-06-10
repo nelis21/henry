@@ -47,3 +47,7 @@ proporciona mecanimos de herencia.
 
 Constructors (de Clases):
 Un constructor es un elemento de una clase cuyo identificador coincide con el de la clase correspondiente y que tiene por objetivo obligar a y controlar cómo se inicializa una instancia de una determinada clase.
+
+05_js-vi
+Funciones Callback:
+Es una llama de vuelta, es una funcion que se pasa a otra funcion como un argumento
